@@ -1,0 +1,42 @@
+[
+  {
+    "tag": "jam_operasional",
+    "fakta_utama": "Toko printing buka <b>setiap hari</b> dari jam <b>08:00 pagi hingga 21:00 WIB</b>.",
+    "keywords": ["jam", "buka", "tutup", "operasional", "jadwal", "hari apa"]
+  },
+  {
+    "tag": "lokasi_toko",
+    "fakta_utama": "Lokasi toko berada di <b>Margadana, Kota Tegal, Jawa Tengah</b>. Toko dapat dicari melalui Google Maps sesuai nama usaha.",
+    "keywords": ["alamat", "lokasi", "dimana", "maps", "tegal", "posisi", "patokan"]
+  },
+  {
+    "tag": "metode_pemesanan",
+    "fakta_utama": "Pemesanan dapat dilakukan dengan <b>datang langsung ke toko</b> atau <b>mengirim file melalui WhatsApp</b> sebelum proses print.",
+    "keywords": ["order", "pesan", "beli", "wa", "cara", "online", "langsung"]
+  },
+  { 
+    "tag": "layanan_utama",
+    "fakta_utama": "Menyediakan layanan <b>print hitam putih dan warna</b>, <b>fotocopy</b>, <b>cetak foto</b>, <b>scan dokumen</b>, <b>convert PDF</b>, serta <b>pengetikan dan edit dokumen</b>.",
+    "keywords": ["print", "fotocopy", "cetak", "scan", "pdf", "pengetikan", "dokumen"]
+  },
+  {
+    "tag": "identitas_toko",
+    "fakta_utama": "Usaha ini merupakan <b>toko printing dan fotocopy</b> yang melayani kebutuhan cetak dokumen, foto, dan perlengkapan alat tulis.",
+    "keywords": ["siapa", "toko apa", "profil", "usaha apa"]
+  },
+  {
+    "tag": "produk_alat_tulis",
+    "fakta_utama": "Tersedia berbagai <b>alat tulis kantor</b> seperti pulpen, pensil, buku tulis, map, kertas HVS, amplop, dan perlengkapan sekolah lainnya.",
+    "keywords": ["alat tulis", "atk", "pulpen", "kertas", "buku", "map"]
+  },
+  {
+    "tag": "format_file_print",
+    "fakta_utama": "Format file yang dapat diprint meliputi <b>PDF</b>, <b>Word</b>, <b>Excel</b>, serta <b>gambar JPG atau PNG</b>. Format PDF disarankan untuk hasil rapi.",
+    "keywords": ["file", "format", "pdf", "word", "jpg", "png", "kirim file"]
+  },
+  {
+    "tag": "ketentuan_harga",
+    "fakta_utama": "Harga layanan printing <b>menyesuaikan jenis layanan, ukuran kertas, dan jumlah cetakan</b>. Print hitam putih tersedia mulai dari <b>Rp500 per lembar</b>.",
+    "keywords": ["harga", "biaya", "tarif", "berapa", "price"]
+  }
+]
