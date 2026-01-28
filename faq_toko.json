@@ -1,42 +1,57 @@
 [
   {
     "tag": "identitas_usaha",
-    "fakta_utama": "Sulis Za Cake adalah UMKM yang melayani pembuatan <b>kue custom</b> dan berbagai <b>produk kuliner rumahan</b> untuk acara spesial.",
-    "keywords": ["sulis", "cake", "usaha apa", "profil", "toko apa"]
+    "fakta_utama": "Sulis Za Cake adalah UMKM yang bergerak di bidang <b>pembuatan kue custom</b> dan <b>produk kuliner rumahan</b> untuk berbagai acara spesial.",
+    "keywords": ["sulis", "sulis za cake", "usaha apa", "profil", "tentang", "toko apa"]
   },
   {
     "tag": "produk_utama",
-    "fakta_utama": "Produk Sulis Za Cake meliputi <b>kue ulang tahun custom</b>, <b>kue tart</b>, dessert, dan aneka snack sesuai pesanan.",
-    "keywords": ["produk", "jual apa", "kue apa", "menu"]
+    "fakta_utama": "Produk Sulis Za Cake meliputi <b>kue ulang tahun custom</b>, <b>kue tart</b>, dessert box, dan aneka snack rumahan sesuai pesanan.",
+    "keywords": ["produk", "jual apa", "menu", "kue apa saja"]
   },
   {
     "tag": "custom_kue",
-    "fakta_utama": "Sulis Za Cake menerima <b>kue custom</b> sesuai tema, ukuran, dan rasa yang diinginkan pelanggan.",
-    "keywords": ["custom", "desain", "tema", "request"]
+    "fakta_utama": "Sulis Za Cake menerima <b>kue custom</b> sesuai tema, ukuran, warna, dan desain yang diinginkan pelanggan.",
+    "keywords": ["custom", "desain", "tema", "request", "gambar"]
   },
   {
     "tag": "rasa_kue",
-    "fakta_utama": "Varian rasa kue dapat disesuaikan, seperti coklat, vanila, keju, dan rasa lainnya sesuai ketersediaan.",
-    "keywords": ["rasa", "flavor", "varian"]
+    "fakta_utama": "Pilihan rasa kue tersedia seperti <b>coklat</b>, <b>vanila</b>, <b>keju</b>, dan varian lain sesuai ketersediaan bahan.",
+    "keywords": ["rasa", "flavor", "varian", "isi kue"]
+  },
+  {
+    "tag": "ukuran_kue",
+    "fakta_utama": "Ukuran kue dapat disesuaikan dengan kebutuhan, mulai dari ukuran kecil hingga ukuran besar untuk acara tertentu.",
+    "keywords": ["ukuran", "size", "diameter", "porsi"]
   },
   {
     "tag": "harga",
-    "fakta_utama": "Harga kue <b>menyesuaikan ukuran, desain, dan tingkat kesulitan</b>. Untuk harga pasti, silakan konsultasi dengan admin.",
-    "keywords": ["harga", "berapa", "biaya", "tarif"]
+    "fakta_utama": "Harga kue <b>menyesuaikan ukuran, desain, dan tingkat kesulitan</b>. Untuk harga pasti, silakan konsultasi langsung dengan admin.",
+    "keywords": ["harga", "berapa", "biaya", "tarif", "price"]
   },
   {
     "tag": "pemesanan",
-    "fakta_utama": "Pemesanan dilakukan dengan <b>menghubungi admin</b> dan menyebutkan detail kue seperti ukuran, rasa, tema, dan tanggal.",
-    "keywords": ["pesan", "order", "cara beli"]
+    "fakta_utama": "Pemesanan dilakukan dengan <b>menghubungi admin</b> dan menyampaikan detail kue seperti ukuran, rasa, tema, serta tanggal pengambilan.",
+    "keywords": ["pesan", "order", "cara beli", "pemesanan"]
   },
   {
     "tag": "waktu_pengerjaan",
-    "fakta_utama": "Disarankan melakukan pemesanan <b>H-2 atau H-3</b> sebelum tanggal pengambilan untuk hasil maksimal.",
+    "fakta_utama": "Disarankan melakukan pemesanan <b>H-2 hingga H-3</b> sebelum tanggal pengambilan agar hasil kue maksimal.",
     "keywords": ["lama", "pengerjaan", "berapa hari", "estimasi"]
   },
   {
     "tag": "pengambilan",
-    "fakta_utama": "Kue dapat <b>diambil sesuai jadwal</b> yang disepakati atau melalui layanan antar (jika tersedia).",
-    "keywords": ["ambil", "antar", "delivery"]
+    "fakta_utama": "Kue dapat <b>diambil sesuai jadwal</b> yang disepakati atau menggunakan layanan antar jika tersedia.",
+    "keywords": ["ambil", "pengambilan", "antar", "delivery"]
+  },
+  {
+    "tag": "pembayaran",
+    "fakta_utama": "Pembayaran dapat dilakukan melalui <b>transfer</b> atau metode lain sesuai kesepakatan dengan admin.",
+    "keywords": ["bayar", "pembayaran", "transfer", "dp"]
+  },
+  {
+    "tag": "kontak_admin",
+    "fakta_utama": "Untuk pemesanan dan informasi lebih lanjut, silakan <b>hubungi admin Sulis Za Cake</b> secara langsung.",
+    "keywords": ["kontak", "admin", "hubungi", "whatsapp"]
   }
 ]
