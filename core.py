@@ -12,7 +12,7 @@ BASE_DIR = Path(__file__).resolve().parent
 FAQ_FILE = BASE_DIR / "faq_toko.json"
 
 load_dotenv()
-    GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
 llm = ChatGroq(
     model_name="llama-3.1-8b-instant",
