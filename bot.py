@@ -22,15 +22,15 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(response)
 
 load_dotenv()
-    TOKEN = os.getenv("TOKEN")
+TOKEN = os.getenv("TOKEN")
     
-    # Membangun aplikasi
-    app = ApplicationBuilder().token(TOKEN).build()
+# Membangun aplikasi
+app = ApplicationBuilder().token(TOKEN).build()
 
-    app.add_handler(CommandHandler('start', start))
-    app.add_handler(MessageHandler(filters.TEXT & (~filters.COMMAND), handle_message))
+app.add_handler(CommandHandler('start', start))
+app.add_handler(MessageHandler(filters.TEXT & (~filters.COMMAND), handle_message))
 
-    print("--- Bot Siap Digunakan ---")
+print("--- Bot Siap Digunakan ---")
     
-    # Gunakan run_polling standar
-    app.run_polling()
+# Gunakan run_polling standar
+app.run_polling()
