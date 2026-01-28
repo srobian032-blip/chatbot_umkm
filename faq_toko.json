@@ -1,42 +1,42 @@
 [
   {
-    "tag": "jam_operasional",
-    "fakta_utama": "Toko printing buka <b>setiap hari</b> dari jam <b>08:00 pagi hingga 21:00 WIB</b>.",
-    "keywords": ["jam", "buka", "tutup", "operasional", "jadwal", "hari apa"]
+    "tag": "identitas_usaha",
+    "fakta_utama": "Sulis Za Cake adalah UMKM yang melayani pembuatan <b>kue custom</b> dan berbagai <b>produk kuliner rumahan</b> untuk acara spesial.",
+    "keywords": ["sulis", "cake", "usaha apa", "profil", "toko apa"]
   },
   {
-    "tag": "lokasi_toko",
-    "fakta_utama": "Lokasi toko berada di <b>Margadana, Kota Tegal, Jawa Tengah</b>. Toko dapat dicari melalui Google Maps sesuai nama usaha.",
-    "keywords": ["alamat", "lokasi", "dimana", "maps", "tegal", "posisi", "patokan"]
+    "tag": "produk_utama",
+    "fakta_utama": "Produk Sulis Za Cake meliputi <b>kue ulang tahun custom</b>, <b>kue tart</b>, dessert, dan aneka snack sesuai pesanan.",
+    "keywords": ["produk", "jual apa", "kue apa", "menu"]
   },
   {
-    "tag": "metode_pemesanan",
-    "fakta_utama": "Pemesanan dapat dilakukan dengan <b>datang langsung ke toko</b> atau <b>mengirim file melalui WhatsApp</b> sebelum proses print.",
-    "keywords": ["order", "pesan", "beli", "wa", "cara", "online", "langsung"]
-  },
-  { 
-    "tag": "layanan_utama",
-    "fakta_utama": "Menyediakan layanan <b>print hitam putih dan warna</b>, <b>fotocopy</b>, <b>cetak foto</b>, <b>scan dokumen</b>, <b>convert PDF</b>, serta <b>pengetikan dan edit dokumen</b>.",
-    "keywords": ["print", "fotocopy", "cetak", "scan", "pdf", "pengetikan", "dokumen"]
+    "tag": "custom_kue",
+    "fakta_utama": "Sulis Za Cake menerima <b>kue custom</b> sesuai tema, ukuran, dan rasa yang diinginkan pelanggan.",
+    "keywords": ["custom", "desain", "tema", "request"]
   },
   {
-    "tag": "identitas_toko",
-    "fakta_utama": "Usaha ini merupakan <b>toko printing dan fotocopy</b> yang melayani kebutuhan cetak dokumen, foto, dan perlengkapan alat tulis.",
-    "keywords": ["siapa", "toko apa", "profil", "usaha apa"]
+    "tag": "rasa_kue",
+    "fakta_utama": "Varian rasa kue dapat disesuaikan, seperti coklat, vanila, keju, dan rasa lainnya sesuai ketersediaan.",
+    "keywords": ["rasa", "flavor", "varian"]
   },
   {
-    "tag": "produk_alat_tulis",
-    "fakta_utama": "Tersedia berbagai <b>alat tulis kantor</b> seperti pulpen, pensil, buku tulis, map, kertas HVS, amplop, dan perlengkapan sekolah lainnya.",
-    "keywords": ["alat tulis", "atk", "pulpen", "kertas", "buku", "map"]
+    "tag": "harga",
+    "fakta_utama": "Harga kue <b>menyesuaikan ukuran, desain, dan tingkat kesulitan</b>. Untuk harga pasti, silakan konsultasi dengan admin.",
+    "keywords": ["harga", "berapa", "biaya", "tarif"]
   },
   {
-    "tag": "format_file_print",
-    "fakta_utama": "Format file yang dapat diprint meliputi <b>PDF</b>, <b>Word</b>, <b>Excel</b>, serta <b>gambar JPG atau PNG</b>. Format PDF disarankan untuk hasil rapi.",
-    "keywords": ["file", "format", "pdf", "word", "jpg", "png", "kirim file"]
+    "tag": "pemesanan",
+    "fakta_utama": "Pemesanan dilakukan dengan <b>menghubungi admin</b> dan menyebutkan detail kue seperti ukuran, rasa, tema, dan tanggal.",
+    "keywords": ["pesan", "order", "cara beli"]
   },
   {
-    "tag": "ketentuan_harga",
-    "fakta_utama": "Harga layanan printing <b>menyesuaikan jenis layanan, ukuran kertas, dan jumlah cetakan</b>. Print hitam putih tersedia mulai dari <b>Rp500 per lembar</b>.",
-    "keywords": ["harga", "biaya", "tarif", "berapa", "price"]
+    "tag": "waktu_pengerjaan",
+    "fakta_utama": "Disarankan melakukan pemesanan <b>H-2 atau H-3</b> sebelum tanggal pengambilan untuk hasil maksimal.",
+    "keywords": ["lama", "pengerjaan", "berapa hari", "estimasi"]
+  },
+  {
+    "tag": "pengambilan",
+    "fakta_utama": "Kue dapat <b>diambil sesuai jadwal</b> yang disepakati atau melalui layanan antar (jika tersedia).",
+    "keywords": ["ambil", "antar", "delivery"]
   }
 ]
